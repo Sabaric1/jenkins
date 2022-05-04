@@ -7,6 +7,8 @@ public class Test3 {
 	@Test
 	public void tc3() {
 		Reporter.log("Hello pythonselenium",true);
+Reporter.log("hello");	
+	
 	}
 
 }
